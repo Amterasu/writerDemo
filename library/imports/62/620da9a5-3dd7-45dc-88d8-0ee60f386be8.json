@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bishunbeijing",
+    "texture": "ae293806-f3c9-4977-8ee4-004a4f2c76ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      715,
+      701
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      715,
+      701
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
